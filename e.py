@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!python2
 # -*- coding: UTF-8 -*-
 
 import sys
@@ -626,7 +626,7 @@ except:
     sys.exit()
 
 # Start
-print "\n\n☼ ☾ ☿ ♀ ♂ ♃ ♄ ☊ ☋ ♈ ♉ ♊ ♋ ♌ ♍ ♎ ♏ ♐ ♑ ♒ ♓\nEast - Comparative Astrology Software\n"
+print "\n\n☼ ☾ ☿ ♀ ♂ ♃ ♄ ☊ ☋ ♈ ♉ ♊ ♋ ♌ ♍ ♎ ♏ ♐ ♑ ♒ ♓\n"
 show_all(utl.getJulian())
 
 while True:
